@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryExecutR", "QueryExecutR.csproj", "{D86DF7DD-A828-4B71-A35E-52F06BD52172}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryExecutR.Extensions.Microsoft.DependencyInjection", "..\QueryExecutR.Extensions.Microsoft.DependencyInjection\QueryExecutR.Extensions.Microsoft.DependencyInjection.csproj", "{7C6F26E1-601C-4002-AC1B-A971847C06BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86DF7DD-A828-4B71-A35E-52F06BD52172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86DF7DD-A828-4B71-A35E-52F06BD52172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86DF7DD-A828-4B71-A35E-52F06BD52172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86DF7DD-A828-4B71-A35E-52F06BD52172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6F26E1-601C-4002-AC1B-A971847C06BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6F26E1-601C-4002-AC1B-A971847C06BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6F26E1-601C-4002-AC1B-A971847C06BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6F26E1-601C-4002-AC1B-A971847C06BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64DF95EF-CA5D-4511-90DC-27C9E7FF01F8}
+	EndGlobalSection
+EndGlobal
